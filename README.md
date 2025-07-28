@@ -1,60 +1,55 @@
 # Target App
+
 A Guessing game app
 
 ## Description
+
 An app where the user inputs a number between 1-99 and the computer tries to guess which number was the user input
 
 ## Getting Started
 
+- Download expo go on your mobile device
+-
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- React 19.0.0
+- React Native 0.79.5
+- Expo 52.0.20
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- To install all of the dependancies, run
+
+```
+npm install
+```
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- To start the program, run
+
 ```
-code blocks for commands
+npm run start
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+- On Android: open the expo go app and select Scan QR code, then scan the QR that appears in the Terminal
+- On Apple: Open the phones camera app and scan the QR code. This will direct you to opening the expo go app
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Geoffrey Price
+https://www.linkedin.com/in/geoffrey-price/
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+- 0.1
+  - Initial Release
 
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
